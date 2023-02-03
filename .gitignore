@@ -1,0 +1,8 @@
+.env
+node_modules/
+public/img/
+src/
+vendor/
+gulpfile.js
+package-lock.json
+package.json
